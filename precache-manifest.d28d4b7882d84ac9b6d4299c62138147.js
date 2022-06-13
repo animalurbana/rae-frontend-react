@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/rae-frontend-react/static/media/logo.561d2a42.png"
   },
   {
-    "revision": "62fff25d16e20d4f538f3c53e81d1657",
+    "revision": "b4bf4e55a10b20a690c8dbeb33df6f3e",
     "url": "/rae-frontend-react/index.html"
   }
 ];
