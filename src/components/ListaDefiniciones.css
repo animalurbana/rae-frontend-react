@@ -1,0 +1,46 @@
+.lista-definiciones-contenedor{
+ margin: 10px;
+ overflow: hidden;
+ border-radius: 5px;
+}
+
+h3 {
+  background-color: #3E2C41;
+  padding: 25px;
+  padding-bottom: 5px;
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+p.definicion {
+  text-align: justify;
+  line-height: 2em;
+  margin: 0;
+  padding: 25px;
+  padding-bottom: 0;
+  background-color: #5C527F;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p.definicion.last{
+  padding-bottom: 5px;
+}
+
+
+.icon {
+  padding: 5px;
+}
+
+.icon:hover {
+  background-color: #EC9E69;
+}
+
+
+.etimologia {
+  font-size: small;
+  padding: 25px;
+  padding-top: 0;
+  margin: 0;
+  background-color: #3E2C41;
+}
