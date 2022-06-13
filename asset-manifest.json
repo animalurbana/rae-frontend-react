@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rae-frontend-react/static/css/main.f3c5b44e.css",
+    "main.js": "/rae-frontend-react/static/js/main.0741cb0f.js",
+    "static/media/waitgif.webp": "/rae-frontend-react/static/media/waitgif.f373dbf9f8da5a95402d.webp",
+    "static/media/logo.png": "/rae-frontend-react/static/media/logo.4e4671f612a1caed9e8f.png",
+    "index.html": "/rae-frontend-react/index.html",
+    "static/media/copyicon.svg": "/rae-frontend-react/static/media/copyicon.bbc4f42d71365a02fc3394ed3cda4a43.svg",
+    "main.f3c5b44e.css.map": "/rae-frontend-react/static/css/main.f3c5b44e.css.map",
+    "main.0741cb0f.js.map": "/rae-frontend-react/static/js/main.0741cb0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c5b44e.css",
+    "static/js/main.0741cb0f.js"
+  ]
+}
