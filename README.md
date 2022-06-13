@@ -4,4 +4,6 @@ This app use a package called @jodacame/raejs in the backend. I try to use it in
 
 The rae packages has some issues: 1. If the world ends in a vowel with accent mark it doesn't recoginize the world 2. It doesn't bring all the combination of the sayings definitions with that world. 3. It doesn't decode the strings 4. it does not show the conjugations of the verbs  5. it doen't recoginize capital letters
 
+Github pages doesn't support proxy fetchs.
+
 The backend use cors package and he package for decode the unicode response that all package hadn't resolve as well.
