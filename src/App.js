@@ -21,7 +21,7 @@ function App() {
     setSinrespuesta(false)
     const fetchPalabra = async ()=>{
       try {
-        const response = await fetch(`rae-api/${pal}`)
+        const response = await fetch(`https://express-crappy-server.herokuapp.com/rae-api/${pal}`)
         const json = await response.json()
         setDefinciones(json)
         setOcultar(true)
