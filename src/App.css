@@ -22,7 +22,8 @@ header {
   border-bottom: 2px solid #A4B494;
   margin: auto;
   display: flex;
-  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   animation: fadeIn 5s;
 }
 
